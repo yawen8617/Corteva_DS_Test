@@ -24,7 +24,8 @@ Setup
     
 ## Running
 
-All functions are implemented in jupyter notebook ```solutions.ipynb```
+All functions are implemented in jupyter notebook ```solutions.ipynb```. Please review the notebook for the script and the results.
+
 ## Folder Structure
 
 - **yld_data:** Corn grain yield data folder.
