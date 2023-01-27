@@ -31,7 +31,3 @@ All functions are implemented in jupyter notebook ```solutions.ipynb```. Please 
 - **yld_data:** Corn grain yield data folder.
 - **wx_data:** Weather data input folder.
 - **answers:** Output folder
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
